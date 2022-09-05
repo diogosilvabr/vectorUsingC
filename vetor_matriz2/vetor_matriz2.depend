@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661823758 source:c:\users\fatec_aluno\documents\edi\linguagem c\vetor_matriz2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
